@@ -22,6 +22,7 @@ Please download the complete, untouched resource archive using our official Goog
 - ⚙️ **Fully Configurable:** Easily tweak recipes, cook times, target options, and notifications in `config.lua`.
 - 🚀 **Optimized Performance:** Low resource usage (`0.00ms` on idle).
 - 🔓 **100% Free & Open Source:** Adapt, modify, and integrate freely into your server.
+- https://youtu.be/8BXVfs9Yvdc
 
 ---
 
